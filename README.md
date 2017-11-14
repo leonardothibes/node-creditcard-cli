@@ -1,5 +1,7 @@
 # CPF-CLI [![npm](http://img.shields.io/npm/v/node-creditcard-cli.svg)](https://www.npmjs.com/package/node-creditcard-cli) ![Downloads](https://img.shields.io/npm/dm/node-creditcard-cli.svg) [![Build Status](https://secure.travis-ci.org/leonardothibes/node-creditcard-cli.png)](http://travis-ci.org/leonardothibes/node-creditcard-cli) [![Package Quality](http://npm.packagequality.com/shield/node-creditcard-cli.svg)](http://packagequality.com/#?package=node-creditcard-cli) [![License](https://img.shields.io/npm/l/node-creditcard-cli.svg)](LICENSE)
 
+UNDER DEVELOPMENT. DOESN'T HAVE NOTHING FUNCTIONAL HERE, CAME BACK ANOTHER DAY.
+
 Command line tool for validation and generation of creditcard numbes.
 
 Installation
